@@ -14,7 +14,7 @@
   margin-bottom:5px;
   }
   
-  @media (max-width:1200) {
+  @media (max-width:400) {
     #gallery {
       -moz-column-count: 1;
       -webkit-column-count: 1;
