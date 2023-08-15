@@ -1,6 +1,6 @@
 <style>
 
-body p a:link {
+a:any-link {
   color: #FF00FF; 
   background-color: transparent; 
   text-decoration: none;
