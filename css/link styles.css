@@ -1,6 +1,7 @@
 <style>
+
 a:link {
-  color: #00FFFF; 
+  color: #FF00FF; 
   background-color: transparent; 
   text-decoration: none;
 }
@@ -18,8 +19,8 @@ a:hover {
 }
 
 a:active {
-  color: #FFFF00;
+  color: #FF00FF;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 </style>
