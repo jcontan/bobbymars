@@ -1,23 +1,15 @@
 a:any-link {
-  color: #FF00FF; 
-  background-color: transparent; 
-  text-decoration: none;
+  color: #FF00FF;
 }
 
 a:visited {
   color: #FF00FF;
-  background-color: transparent;
-  text-decoration: none;
 }
 
 a:hover {
   color: #FFFF00;
-  background-color: transparent;
-  text-decoration: underline;
 }
 
 a:active {
   color: #FF00FF;
-  background-color: transparent;
-  text-decoration: none;
 }
