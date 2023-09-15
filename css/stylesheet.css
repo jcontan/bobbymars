@@ -18,6 +18,7 @@ h1 {
 h2 {
   color: white;
   background: black;
+  font-size:3vw;
 }
 
 a:any-link {
