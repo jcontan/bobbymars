@@ -12,13 +12,13 @@ body {
 h1 {
   color: white;
   font-family:arial;
-  font-size:7vw;
+  font-size:12vw;
 }
 
 h2 {
   color: white;
   background: black;
-  font-size:3vw;
+  font-size:7vw;
 }
 
 a:any-link {
