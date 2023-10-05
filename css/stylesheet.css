@@ -22,19 +22,19 @@ h2 {
 }
 
 a:any-link {
-  color: #FF00FF;
+  color: #00FFFF;
 }
 
 a:visited {
-  color: #FF00FF;
+  color: #00FFFF;
 }
 
 a:hover {
-  color: #FFFF00;
+  color: #FF0000;
 }
 
 a:active {
-  color: #FF00FF;
+  color: #00FFFF;
 }
 
 /* Create two unequal columns that floats next to each other */
